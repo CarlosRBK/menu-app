@@ -1,2 +1,2 @@
 # menu-app
-Carta de menu de restaurante conectado con una API para mostrar los diferentes productos con sus precios.
+Carta de menu de restaurante conectado con la API de Google Sheets para mostrar los diferentes productos con sus precios.
